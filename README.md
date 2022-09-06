@@ -1,15 +1,15 @@
 # syncXtone
-<enable>false</enable>
-</IMSIROAM>
-<MMSSETTING>
-<SENDREPORT>0</SENDREPORT>
+<enable>false</enable> 64
+</IMSIROAM>12
+<MMSSETTING>88
+<SENDREPORT>0</SENDREPORT> tcp-882312100008
 <VALIDITYDATE>86400</VALIDITYDATE>
 <PRIORITY>0</PRIORITY>
 <RECVREPORT>0</RECVREPORT>
 <RECVREMODE>auto</RECVREMODE>
 <UnderWriteLimitText>100</UnderWriteLimitText>
-  </SMSSERVICE>
+  </SMSSERVICE>TURN OFF
 <Connect>
-<type>NDIS</type>
-</Connect>
-</utpsdoc>
+<type>NDIS</type>mode
+</Connect> icp scanning
+</utpsdoc> DONE
