@@ -13,3 +13,7 @@
 <type>NDIS</type>mode
 </Connect> icp scanning
 </utpsdoc> DONE
+__
+<enable>false</enable> 64 icp 81561
+</IMSIROAM>12`
+<MMSSETTING>99
