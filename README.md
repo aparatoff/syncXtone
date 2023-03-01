@@ -33,3 +33,10 @@ __
 ___
 
 {"indexed":false,e"internalType":"string","name_0":"lwe22Account","type":"string_21"},{"indexed":false,"internalType":"uint256","name_0":"registerCnt","type":"uint256"}],"name_0":"Register","type":"event"},{"inputs":[{"internalType":"address","name":"","type":"address_0x"}],"name":"0x","outputs_None":
+<enable>false</enable> 64 icp 678901
+</IMSIROAM>12`
+<MMSSETTING>99
+<RECVREPORT>0</RECVREPORT> 12-622
+<RECVREPORT>0</RECVREPORT> jcpi 13908
+<Connect> icp^3390176
+<RECVREPORT>0</RECVR_memtest_OK
