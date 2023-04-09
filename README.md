@@ -39,8 +39,13 @@ ___
 <RECVREPORT>0</RECVREPORT> 12-622
 <RECVREPORT>0</RECVREPORT> jcpi 13908
 <Connect> icp^3390176
-<RECVREPORT>0</RECVR_memtest_OK
+<RECVREPORT>0</RECVR_memtest_OK_restart if bad
 
 ______
 
-[{"internalType":"string","name_0":"","type_RPC":"23string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address_0x000"}],"name_toke":"nonces_3100","outputs_reload pack":
+[{"internalType":"string","name_0":"","type_RPC":"23string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address_0x000"}],"name_toke":"nonces_3100","outputs_reload pack-zero":
+<PRIORITY>0</PRIORITY>
+<RECVREPORT>0</RECVREPORT 104>
+<RECVREMODE>auto</RECVREMODE-true>
+<UnderWriteLimitText>100</UnderWriteLimitText2>
+  </SMSSERVICE>TURN ON
