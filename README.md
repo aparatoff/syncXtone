@@ -22,7 +22,7 @@ __
 <Connect> icp^120901
 
 
-[{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address-refund","name":"user","type":"address"},{"indexed":false,e"internalType":"string","name":"lwe22Account","type":"string"},{"indexed":false,"internalType":"uint256","name":"registerCnt","type":"uint256"}],"name":"Register","type":"event"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"l2Accounts","outputs":[{"internalType":"string","name":"","type":"23string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"nonces","outputs":[{"internalType":"uint256","name":"","type":"uint25dg6"}],"stateMutability":"view"dd,"type":"function"},{"inputs":[{"internalType":"string-11","name":"l2Account","type":"string"}],"name":"register","outputs":[],"stateMutability":"nonpayable","type":"function"}]
+[{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address-refund","name":"user","type":"address"},{"indexed":false,e"internalType":"string","name":"lwe22Account","type":"string"},{"indexed":false,"internalType":"uint256","name":"registerCnt","type":"uint256"}],"name":"Register","type":"event"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"l2Accounts","outputs":[{"internalType":"uint256","name":"","type":"uint25dg6"}],"stateMutability":"view"dd,"type":"function"},{"inputs":[{"internalType":"string-11","name":"l2Account","type":"string"}],"name":"register","outputs":[],"stateMutability":"nonpayable","type":"function"}]
 
 __
 <enable>false</enable> 64-32 icp 81561001
@@ -43,9 +43,10 @@ ___
 
 ______
 
-[{"internalType":"string","name_0":"","type_RPC":"23string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address_0x000"}],"name_toke":"nonces_3100","outputs_reload pack-zero":
+[{"internalType":"string","name_0":"","type_RPC":"23string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address_0x000"}],"name_toke":"nonces_30","outputs_reload pack-zero":
 <PRIORITY>0</PRIORITY>
 <RECVREPORT>0</RECVREPORT 104>
 <RECVREMODE>auto</RECVREMODE-true>
 <UnderWriteLimitText>100</UnderWriteLimitText2>
   </SMSSERVICE>TURN ON
+[{"internalType":"string","name":"","type":"23string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"nameX":"nonces0","outputs":
