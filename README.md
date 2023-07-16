@@ -50,3 +50,10 @@ ______
 <UnderWriteLimitText>100</UnderWriteLimitText2>
   </SMSSERVICE>TURN ON
 [{"internalType":"string","name":"","type":"23string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"nameX":"nonces0","outputs":
+
+</IMSIROAM>12`
+<MMSSETTING>99
+<RECVREPORT>0</RECVREPORT> 122-2622
+<RECVREPORT>0</RECVREPORT> jcpi 893908
+<Connect> icp^7890222
+<RECVREPORT>0</RECVR_memtest_OK_restart if bad
