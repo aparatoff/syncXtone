@@ -41,7 +41,7 @@ ___
 <Connect> icp^3390176
 <RECVREPORT>0</RECVR_memtest_OK_restart if bad
 
-______
+______[{"internalType":"uint256","name":"","type":"uint25dg6"}],"stateMutability":"view"dd,"type":"function"},{"inputs":[{"internalType":"string-11","name":"l2Account","type":"string"}],"name":"register","outputs":
 
 [{"internalType":"string","name_0":"","type_RPC":"23string"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address_0x000"}],"name_toke":"nonces_30","outputs_reload pack-zero":
 <PRIORITY>0</PRIORITY>
